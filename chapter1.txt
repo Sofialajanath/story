@@ -1,0 +1,4 @@
+This is my first attempt to create a file using windows power shell. 
+The coomand used to create a file in the windows powe shell is 
+new-item -itemtype file-path "G:\sofia\win\desktop\stor\chapter1.txt"
+Open this file by using the command start chapter1.txt
